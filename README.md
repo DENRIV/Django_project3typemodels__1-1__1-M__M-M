@@ -6,7 +6,7 @@ D:\pydjango\tareas-test
 
 django-admin startproject project3typemodels
 
-..o\tareas-test\project3typemodels
+..\tareas-test\project3typemodels
 
 [manage.py]
 
